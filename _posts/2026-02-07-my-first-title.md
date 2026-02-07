@@ -1,5 +1,5 @@
 ---
-title: "MY-FIRST-TITLE"
+title: "MY FIRST TITLE"
 date: 2026-02-07
 ---
 
